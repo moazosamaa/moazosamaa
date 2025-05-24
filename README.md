@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @moazosamaa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @moazosamaa
 
-<!---
-moazosamaa/moazosamaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in data analysis, software development, microsoft powerBI and data engineering.
+
+🌱 I’m currently learning  data engineering , data analysis and data visualization techniques.   
+
+💞️ I’m looking to collaborate on projects related to data engineering and data analysis.
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/moaz-osama-434328255/)
